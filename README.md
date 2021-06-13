@@ -1,2 +1,2 @@
 # Stepping
-Stepping is an Android One Tap Game, in which you have to climb as many steps as possible by you. It is a quicked-paced and demands high concentration to climb as many steps.
+Stepping is a Tap Game for Android, in which you have to climb as many steps as possible by single tap or double tap. It is a quick-paced game and demands high concentration to climb many steps. Game was designed using Unity Engine and C# Programming Language. You can collect coins and unlock new ball design and background environment.
